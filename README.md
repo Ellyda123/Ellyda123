@@ -1,7 +1,6 @@
 ## Olá Devs.👋
 
-### Eu sou Ellyda Chrisla ,
-![Ellyda GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyda123&show_icons=true&theme=radical)
+### Eu sou Ellyda Chrisla!
 
 ## Tecnologias que eu uso no meu dia a dia.
 <div style="display:inline_block"><br/>
@@ -10,5 +9,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" align="center"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" align="center"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" align="center"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" align="center"/>
 </div>
